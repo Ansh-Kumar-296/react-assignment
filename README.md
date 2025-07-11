@@ -1,7 +1,5 @@
 # react-assignment
-Here’s a professional and clear `README.md` for your Figma-style Spreadsheet UI clone built with React and Tailwind CSS:
 
----
 
 ```markdown
 # 🧾 Figma Spreadsheet UI Clone
